@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lisa • Pink Metálico Universe</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="navbar">
+    <div class="logo">LISA • BLINKSNAILSALON</div>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#history">My History</a>
+      <a href="#likes">What I Like</a>
+      <a href="#music">Favorite Music</a>
+      <a href="#socials">Socials</a>
+    </nav>
+  </header>
+
+  <section id="home" class="hero">
+    <div class="hero-content">
+      <h1>Pink & Black Metálico Fem Vibes</h1>
+      <p>
+        Welcome to my universe: fem energy, nail polish art, K‑pop aesthetics, Spanish music,
+        gaming, and PES kit design — all in one metallic pink and black world.
+      </p>
+      <button onclick="document.getElementById('socials').scrollIntoView({behavior:'smooth'})">
+        Find My Socials
+      </button>
+    </div>
+  </section>
+
+  <section id="history" class="section">
+    <h2>My History</h2>
+
+    <p>
+      Soy un chico femenino que siempre sintió una conexión natural con todo lo pretty: colores suaves,
+      estética cute, brillo, glamour y detalles que la gente decía que “no eran para hombres”.
+      Desde pequeño me gustaba lo que brillaba, lo que tenía estilo, lo que se sentía libre.
+    </p>
+
+    <p>
+      Con el tiempo descubrí mi pasión más fuerte: el <strong>nail polish</strong>. No solo me gustaba usarlo,
+      me volví experto — tonos, texturas, acabados metálicos, combinaciones, técnicas, todo.
+      Mientras otros veían “algo raro”, yo veía arte. Mis uñas se convirtieron en mi forma de expresarme,
+      mi identidad, mi firma.
+    </p>
+
+    <p>
+      Pero ser un chico fem en un mundo lleno de estereotipos no fue fácil. Muchas veces intentaron decirme
+      cómo debía verme o comportarme. Aun así, nunca dejé que eso me frenara. Mi estilo rosa metálico y negro,
+      mi vibra K‑pop, y mi amor por el nail polish se volvieron mi manera de romper esas ideas viejas.
+    </p>
+
+    <p>
+      Hoy soy simplemente yo: un chico fem, orgulloso, creativo, experto en uñas, y libre de los moldes que
+      nunca fueron míos.
+    </p>
+  </section>
+
+  <section id="likes" class="section">
+    <h2>What I Like</h2>
+
+    <p>
+      Mis gustos son una mezcla de estética fem, colores vibrantes y creatividad gamer.
+      Me encantan los tonos <strong>rosa</strong> y <strong>morado</strong>, todo lo cute‑dark,
+      y cualquier cosa que tenga brillo metálico.
+    </p>
+
+    <p>
+      Soy gamer de corazón — desde juegos retro hasta mundos modernos — y tengo una pasión especial:
+      <strong>crear kits para PES</strong>. Diseñar camisetas, colores, patrones y estilos es una de mis formas
+      favoritas de expresarme. Cada kit que hago lleva mi vibra rosa‑negra, mi toque metálico y mi lado fem.
+    </p>
+
+    <ul class="pill-list">
+      <li>Pink aesthetic</li>
+      <li>Purple aesthetic</li>
+      <li>Gaming</li>
+      <li>PES Kit Design</li>
+      <li>Dark‑cute vibes</li>
+      <li>Metallic colors</li>
+    </ul>
+  </section>
+
+  <section id="music" class="section">
+    <h2>My Favorite Music</h2>
+
+    <p>
+      Mi mundo musical es una mezcla poderosa: todo tipo de música en español — desde pop latino hasta
+      regional, cumbia, banda y especialmente <strong>duranguense</strong> — combinado con la energía futurista
+      del <strong>K‑pop</strong>. Esa combinación define mi vibra: latina, estética, brillante y con actitud.
+    </p>
+
+    <p>
+      El duranguense me conecta con mis raíces: alegre, rápido, lleno de vida. El K‑pop me conecta con mi
+      estética: visual, metálica, rosa‑negra, llena de estilo y performance. Juntos crean el soundtrack de
+      quién soy.
+    </p>
+
+    <p>
+      No importa el género — si tiene emoción, ritmo, estética o una vibra que me haga sentir libre, es parte
+      de mi universo musical.
+    </p>
+
+    <ul class="pill-list">
+      <li>Duranguense</li>
+      <li>Cumbia</li>
+      <li>Pop Latino</li>
+      <li>Banda</li>
+      <li>K‑pop Girl Groups</li>
+      <li>K‑pop Boy Groups</li>
+      <li>J‑pop & City‑pop</li>
+    </ul>
+  </section>
+
+  <section id="socials" class="section socials">
+    <h2>Where To Find My Socials</h2>
+    <p>Here are my official links — aesthetic, fem, and metálico:</p>
+
+    <div class="social-links">
+      <a href="https://instagram.com/blinksnailsalon" target="_blank">
+        Instagram • @blinksnailsalon
+      </a>
+      <a href="https://twitter.com/yourusername" target="_blank">
+        X / Twitter
+      </a>
+      <a href="https://tiktok.com/@yourusername" target="_blank">
+        TikTok</a>
+      <a href="https://youtube.com/@yourusername" target="_blank">
+        YouTube</a>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p>© 2026 Lisa • Pink Metálico Universe • blinksnailsalon</p>
+  </footer>
+
+</body>
+</html>
