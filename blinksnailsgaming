@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lisa • Pink Metálico Universe</title>
+  <title>Fem Universe • Lisa</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
   <header class="navbar">
-    <div class="logo">LISA • BLINKSNAILSALON</div>
+    <div class="logo">FEM UNIVERSE • BLINKSNAILSALON</div>
     <nav>
       <a href="#home">Home</a>
       <a href="#history">My History</a>
@@ -21,7 +21,7 @@
 
   <section id="home" class="hero">
     <div class="hero-content">
-      <h1>Pink & Black Metálico Fem Vibes</h1>
+      <h1>Fem Universe • Pink & Black Metálico</h1>
       <p>
         Welcome to my universe: fem energy, nail polish art, K‑pop aesthetics, Spanish music,
         gaming, and PES kit design — all in one metallic pink and black world.
@@ -124,18 +124,14 @@
       <a href="https://instagram.com/blinksnailsalon" target="_blank">
         Instagram • @blinksnailsalon
       </a>
-      <a href="https://twitter.com/yourusername" target="_blank">
-        X / Twitter
-      </a>
-      <a href="https://tiktok.com/@yourusername" target="_blank">
-        TikTok</a>
-      <a href="https://youtube.com/@yourusername" target="_blank">
-        YouTube</a>
+      <a href="https://twitter.com/yourusername" target="_blank">X / Twitter</a>
+      <a href="https://tiktok.com/@yourusername" target="_blank">TikTok</a>
+      <a href="https://youtube.com/@yourusername" target="_blank">YouTube</a>
     </div>
   </section>
 
   <footer class="footer">
-    <p>© 2026 Lisa • Pink Metálico Universe • blinksnailsalon</p>
+    <p>© 2026 Fem Universe • Lisa • blinksnailsalon</p>
   </footer>
 
 </body>
